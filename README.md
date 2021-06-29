@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on  https://Cynathans.com and https://PucMC.XYZ
-- 🌱 I’m currently learning Java, C++, LUA, and Typescript!
+- 🌱 I’m currently learning Java, C++, LUA, Python, and Typescript!
 - 🤔 I’m looking for help with CentOS node.js errors.	
 - ⚡ I usually code in: C#, C++, JavaScript, LUA, and Java.
 - 📫 How to reach me: Pump@Cynathans.com
