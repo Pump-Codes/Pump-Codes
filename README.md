@@ -5,3 +5,4 @@
 - 📫 How to reach me: Pump@Cynathans.com
 - ⚡ Fun fact: I am not just a coder I am a god at gaming too!
 
+**INFO OUTDATED**
