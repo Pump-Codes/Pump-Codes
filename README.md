@@ -1,5 +1,5 @@
 - 🔭 Shop: https://pump.tebex.io
-- 🌱 I’m currently learning Java, C++, LUA, Python, and Typescript!
+- 🌱 I’m currently learning Java, HTML, C++, LUA, Python, and Typescript!
 - 🤔 I’m looking for help with stupid node.js errors.	
 - ⚡ I usually code in: C#, C++, JavaScript, LUA, and Java.
 - 📫 How to reach me: Pump#3583 , https://discord.gg/c48jp2m6Rc
