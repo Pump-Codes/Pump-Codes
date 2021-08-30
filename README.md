@@ -1,4 +1,4 @@
-- 🔭 Shop: Currently Unavailable 
+- 🔭 My bots: All my bots are private due to the amount of people not following the license. 
 - 🌱 I’m currently learning Java, HTML, C++, LUA, and Typescript!
 - 🤔 I’m looking for help with stupid node.js errors.	
 - ⚡ I usually code in: C#, C++, JavaScript, LUA, and Java.
