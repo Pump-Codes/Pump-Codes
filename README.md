@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Pump#3583](https://discord.com/users/810656600552374342) , [Website](https://pumpdev.org) , [me@pumpdev.org](mailto:me@pumpdev.org)
 
 <img float="center" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=Pump-Codes&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
-<img float="center" height="360em" src="https://metrics.lecoq.io/Pump-Codes" />
+<img alt="extrastas" src="https://metrics.lecoq.io/Pump-Codes" />
