@@ -1,7 +1,7 @@
 ### <div align="center">I'm asian. I'm Pump, I'm Developer 💻</div>  
 
 - 🌱 I’m currently learning Java, HTML, C++, LUA!
-- ⚡ I usually code in: C#, C++, JavaScript, LUA, and Java.
+- ⚡ I usually code in: C#, C++, HTML, JavaScript, LUA, and Java.
 - 💬 Don't ask me questions, just search on [stackoverflow](https://stackoverflow.com)
 - 📫 How to reach me: [0x08#0001](https://discord.com/users/810656600552374342) , [Website](https://pumpdev.org) , [me@pumpdev.org](mailto:me@pumpdev.org)
 
